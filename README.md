@@ -93,7 +93,9 @@ Key implementation details:
 | Keypad COL4 | A5 |
 
 Full schematic: [`docs/schematic.png`](docs/schematic.png)
+![Schematic](docs/schematic.png)
 Wiring diagram: [`docs/wiring_diagram.png`](docs/wiring_diagram.png)
+![Circuit](docs/wiring_diagram.png)
 
 ---
 
