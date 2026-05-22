@@ -273,4 +273,3 @@ Ein vierter Zustand `ADMIN`, über `'D'` aus `ENTERING` erreichbar, würde einen
 ## Lizenz
 
 MIT, siehe [`LICENSE`](LICENSE).
->>>>>>> Stashed changes
