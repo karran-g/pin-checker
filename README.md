@@ -232,7 +232,8 @@ Wichtige Implementierungsdetails:
 | Tastatur COL3 | A4 |
 | Tastatur COL4 | A5 |
 
-Schaltplan: [`docs/schematic.png`](docs/schematic.png)
+**Siehe beide oben**
+Schaltplan: [`docs/schematic.png`](docs/schematic.png) 
 Verdrahtungsdiagramm: [`docs/wiring_diagram.png`](docs/wiring_diagram.png)
 
 ---
