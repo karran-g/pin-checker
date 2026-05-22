@@ -5,7 +5,7 @@
 
 > **Deutsche Version unten / German version below**
 
-https://github.com/user-attachments/assets/your-video-id.mp4
+https://github.com/user-attachments/assets/34c62ef7-b83a-4b21-92de-71aeec42233b
 
 4-digit PIN entry system built on an Arduino Uno with a custom HD44780 LCD driver and a custom 4x4 membrane keypad driver. No external hardware libraries; both drivers are implemented from scratch directly on top of Arduino's `digitalWrite` / `digitalRead`.
 
